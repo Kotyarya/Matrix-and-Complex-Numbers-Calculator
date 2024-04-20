@@ -24,4 +24,4 @@ This application is a calculator for operations with matrices and complex number
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/matrix-complex-calculator.git](https://github.com/Kotyarya/Matrix-and-Complex-Numbers-Calculator
+   git clone https://github.com/Kotyarya/Matrix-and-Complex-Numbers-Calculator
