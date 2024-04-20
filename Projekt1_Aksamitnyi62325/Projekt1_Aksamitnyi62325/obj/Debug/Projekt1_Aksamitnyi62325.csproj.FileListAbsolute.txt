@@ -1,0 +1,31 @@
+C:\Users\volko\OneDrive\Рабочий стол\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\bin\Debug\Projekt1_Aksamitnyi62325.exe.config
+C:\Users\volko\OneDrive\Рабочий стол\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\bin\Debug\Projekt1_Aksamitnyi62325.exe
+C:\Users\volko\OneDrive\Рабочий стол\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\bin\Debug\Projekt1_Aksamitnyi62325.pdb
+C:\Users\volko\OneDrive\Рабочий стол\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.csproj.AssemblyReference.cache
+C:\Users\volko\OneDrive\Рабочий стол\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.Properties.Resources.resources
+C:\Users\volko\OneDrive\Рабочий стол\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.csproj.GenerateResource.cache
+C:\Users\volko\OneDrive\Рабочий стол\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.csproj.CoreCompileInputs.cache
+C:\Users\volko\OneDrive\Рабочий стол\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.exe
+C:\Users\volko\OneDrive\Рабочий стол\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.pdb
+C:\Users\volko\OneDrive\Рабочий стол\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.Form.resources
+C:\Users\student\Desktop\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\bin\Debug\Projekt1_Aksamitnyi62325.exe.config
+C:\Users\student\Desktop\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\bin\Debug\Projekt1_Aksamitnyi62325.exe
+C:\Users\student\Desktop\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\bin\Debug\Projekt1_Aksamitnyi62325.pdb
+C:\Users\student\Desktop\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.Form.resources
+C:\Users\student\Desktop\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.Properties.Resources.resources
+C:\Users\student\Desktop\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.exe
+C:\Users\student\Desktop\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.pdb
+C:\Users\volko\OneDrive\Рабочий стол\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\bin\Debug\Projekt1_Aksamitnyi62325.exe.config
+C:\Users\volko\OneDrive\Рабочий стол\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\bin\Debug\Projekt1_Aksamitnyi62325.exe
+C:\Users\volko\OneDrive\Рабочий стол\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\bin\Debug\Projekt1_Aksamitnyi62325.pdb
+C:\Users\volko\OneDrive\Рабочий стол\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.csproj.AssemblyReference.cache
+C:\Users\volko\OneDrive\Рабочий стол\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.Form.resources
+C:\Users\volko\OneDrive\Рабочий стол\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.Properties.Resources.resources
+C:\Users\volko\OneDrive\Рабочий стол\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.csproj.GenerateResource.cache
+C:\Users\volko\OneDrive\Рабочий стол\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.csproj.CoreCompileInputs.cache
+C:\Users\volko\OneDrive\Рабочий стол\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.exe
+C:\Users\volko\OneDrive\Рабочий стол\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\Projekt1_Aksamitnyi62325\obj\Debug\Projekt1_Aksamitnyi62325.pdb
